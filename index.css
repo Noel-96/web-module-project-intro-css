@@ -1,0 +1,112 @@
+.container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  nav {
+    text-align:center;
+}
+
+ .planVisitHeader{
+    margin: 0 20px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #FF764E;  
+  }
+
+  .learnAboutParkHeader{
+    margin: 0 20px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #5ED3EB;  
+  }
+
+  .getInvolvedHeader{
+    margin: 0 30px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #FFCD69;  
+  }
+
+  .imgHeader{
+    margin: 50px 50px 50px 50px;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+  }
+
+  h1 {
+    font-family: Chelsea Market;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.headerParagraph1 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.headerParagraph2 {
+  text-align: center;
+  font-size: 20px;
+}
+
+  .header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .bodyParagraph {
+    background-color: #DDB9A3;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 20px 20px 20px 20px;
+}
+
+.sub-bodyParagraph{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.middleParagraphs {
+  text-align: center;
+}
+
+.imgs {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+}
+
+
+
+.footerImg {
+  margin: 30px;
+  height: 0px;
+}
